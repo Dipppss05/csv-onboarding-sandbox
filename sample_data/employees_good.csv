@@ -1,0 +1,7 @@
+employee_id,full_name,email,department_code,hire_date,hourly_rate
+101,Aarav Shah,aarav.shah@example.com,ENG,2023-06-12,48.50
+102,Maya Lopez,maya.lopez@example.com,OPS,2022-01-03,31.00
+103,Jordan Kim,jordan.kim@example.com,SAL,2024-09-30,27.75
+104,Priya Nair,priya.nair@example.com,ENG,2021-11-15,55.00
+105,Liam Carter,liam.carter@example.com,HR,2020-04-20,33.25
+106,Sofia Rossi,sofia.rossi@example.com,OPS,2025-02-10,29.40

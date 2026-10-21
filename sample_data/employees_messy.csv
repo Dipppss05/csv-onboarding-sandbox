@@ -1,0 +1,11 @@
+employee_id,full_name,email,department_code,hire_date,hourly_rate
+107,Noah Patel,noah.patel@example.com,eng,2024-03-01,42.00
+108,,ghost@example.com,OPS,2023-05-05,30.00
+109,Emma Wilson,emma.wilson@example,SAL,2023-07-19,26.00
+110,Lucas Brown,lucas.brown@example.com,MKT,2022-08-08,35.00
+111,Ava Johnson,ava.johnson@example.com,ENG,08/14/2023,47.00
+112,Ethan Davis,ethan.davis@example.com,HR,2023-02-02,-5
+abc,Mia Garcia,mia.garcia@example.com,OPS,2023-10-10,28.00
+107,Noah Patel Duplicate,noah.dup@example.com,ENG,2024-03-01,42.00
+113,Olivia Martin,olivia.martin@example.com,SAL,2099-01-01,25.00
+104,Priya Nair,priya.nair@example.com,ENG,2021-11-15,58.00
